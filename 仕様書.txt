@@ -1,0 +1,3 @@
+入力する値
+・今回の制御入力(geometry_msgs/Twist)
+
